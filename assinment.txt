@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+.gh1 {
+	 position: relative;
+            left: 251px;
+            width: 5000px;
+            height: 200px;
+           
+}
+p {
+position: relative;
+left:20px;
+width:200px
+}
+
+button {
+position: relative;
+            left: 25px;
+            bottom: 5px;
+  background-color: black;
+  width: 200px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid yellow;
+  color: white;
+  cursor: pointer;
+}
+
+span {
+background-color: yellow;
+ width: 200px;
+  height: 200px;
+  background: linear-gradient(45deg, #ff007b, #9900ff);
+  
+  /* Points: Top, Right, Bottom, Left */
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); 
+}
+div {
+background-color: #F78E66;
+left: 20px;
+} 
+</style>
+</head>
+<body>
+<div class="bhanu";>
+</div>
+<div>
+<ul>
+  <li><a href="slip";>Slipper</a></li>
+  <li class="gh1";><a href="#home">Home</a></li>
+  <li  class="gh1";><a href="#news">News</a></li>
+  <li class="gh1";><a href="#contact">Contact</a></li>
+  <li class="gh1";><a href="#about">About</a></li>
+</ul>
+
+<h1>sliiper and gard </h1>
+<p>
+• Indoor / House Slippers: Soft, warm, or waffle-textured styles (like IKEA.in) built for home relaxation or spa use.
+• Flip-Flops & Thong Sandals: Casual, open-toe designs with Y-shaped straps or slide bands suitable for warm weather and errands.
+• Orthopedic & Recovery Slippers: Cushioned, arch-supported options (such as doctor or anti-skid footbeds) made to reduce foot fatigue and joint pressure.
+</p>
+<button>Click Me</button>
+</div>
+</div>
+</body>
+</html>
+
+
