@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+
+<style>
+  ul.flex-menu {
+    display: flex;          /* Aligns items horizontally */
+    list-style-type: none;  /* Removes default bullets */
+    padding: 0;             /* Removes default indentation */
+    margin: 0;
+    gap: 20px;              /* Adds spacing between items */
+  }
+</style>
+</head>
+<body>
+<header>
+<h1>Welcome to <mark>Room</mark></h1>
+<p>This is <em>a <strong>paragraph.</strong></em></p>
+<nav>
+  <ul class="flex-menu">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Contact</a></li>
+	<li><a href="#">Contact2</a></li>
+  </ul>
+</nav>
+<figure></figure>
+<figcaption></figcaption>
+</header>
+</body>
+</html>
